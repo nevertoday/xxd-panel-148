@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 148"
+  short_description: "Visual Journal Collage"
+  default_prompt: "Use $xxd-panel-148 to transform my photograph using the complete canonical source brief."
