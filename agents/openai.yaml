@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 148"
-  short_description: "Visual Journal Collage"
-  default_prompt: "Use $xxd-panel-148 to transform my photograph using the complete canonical source brief."
+  short_description: "视觉日记拼贴志：用照片碎片、便签、胶带、票据和手写，把照片拼成一页留白很多的日记"
+  default_prompt: "Use $xxd-panel-148 to turn my photo into Visual Journal Collage artwork."

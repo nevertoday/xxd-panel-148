@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 148｜Visual Journal Collage: rebuilds a photo around one clear theme as an editorial visual-journal collage, using a few high-value photo fragments with paper scraps, sticky notes, clear tape, small stickers, tickets, screenshot-like snippets, stamps and handwriting, layered and slightly tilted in a free asymmetrical layout with paper grain, creases and printed edges, in 2–4 warm colours from the photo with cream, light grey and khaki paper neutrals, large deliberate whitespace and short notes or date fragments in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-148 or asks for visual journal, scrapbook, digital mixed-media collage or diary-style layouts from a photo.",
+  "short_description": "视觉日记拼贴志：用照片碎片、便签、胶带、票据和手写，把照片拼成一页留白很多的日记",
+  "zh-CN": {
+    "name": "视觉日记拼贴志",
+    "tagline": "用照片碎片、便签、胶带、票据和手写，把照片拼成一页留白很多的私人日记。",
+    "look": "画面围绕一个清楚的主题，只选少量最有价值的元素：几块照片碎片、纸片、便签、透明胶带、小贴纸、票据、截图式小块、印章和手写字，像随手保存、其实经过设计地叠在一起。元素可以偏心、倾斜、互相遮挡或被裁切，排成自由的非对称版面。看得到纸张纹理、轻微折痕、打印边缘和胶带的透明感。颜色从照片取 2–4 种温暖的颜色，配米白、奶油白、浅灰、浅卡其等纸色，四周留出大量空白；文字是几句短注、便签或日期片段，语种不限。",
+    "traits": [
+      "视觉日记",
+      "摄影碎片与纸张胶带",
+      "私人叙事",
+      "自由非对称编辑",
+      "2–4 种源图色",
+      "大量主动留白"
+    ],
+    "good": [
+      "有生活细节和时间感的照片：咖啡馆的下午、旅行中的车站、生日聚会、搬家那天",
+      "带票据、地名、食物、小物件的旅行或日常照",
+      "想做成手帐页、年度回顾、社交媒体日记或纪念册的照片"
+    ],
+    "poor": [
+      "需要完整、未裁切展示的作品照、证件照或产品图",
+      "没有故事、只有大块单一画面的照片：纯色天空、空白墙面",
+      "想要整齐模板、贴纸堆满的手账，或卡通、电商式排版"
+    ]
+  },
+  "en": {
+    "name": "Visual Journal Collage",
+    "tagline": "Turns your photo into a private journal page of photo pieces, sticky notes, tape, tickets and handwriting, with lots of space.",
+    "look": "The page centres on one clear theme and uses only a few valuable elements: some photo fragments, paper scraps, sticky notes, clear tape, small stickers, tickets, screenshot-like snippets, stamps and handwriting, layered as if casually saved yet actually designed. Pieces can sit off-centre, tilt, overlap or be cropped, in a free asymmetrical layout. Paper texture, light creases, printed edges and the sheen of tape are visible. Two to four warm colours from the photo are paired with cream, off-white, light grey and pale khaki paper tones, with plenty of empty space around; the text is a few short notes, memo lines or date fragments in any language.",
+    "traits": [
+      "Visual journal",
+      "Photo fragments, paper and tape",
+      "Personal storytelling",
+      "Free asymmetrical layout",
+      "2–4 colours from the photo",
+      "Generous deliberate whitespace"
+    ],
+    "good": [
+      "Photos full of everyday detail and a sense of time: an afternoon in a café, a station on a trip, a birthday party, moving day",
+      "Travel or daily photos with tickets, place names, food or small objects",
+      "Photos for a journal page, a year-in-review, a social media diary or a keepsake album"
+    ],
+    "poor": [
+      "Portfolio, ID or product photos that must be shown whole and uncropped",
+      "Photos with no story, only a single large area: plain sky, a blank wall",
+      "Requests for a tidy template, a sticker-packed journal, cartoon or e-commerce layouts"
+    ]
+  },
+  "ja": {
+    "name": "ビジュアル日記コラージュ",
+    "tagline": "写真の切れ端、付箋、テープ、チケット、手書きで、写真を余白たっぷりの私的な日記の一ページにします。",
+    "look": "一つのはっきりしたテーマを中心に、価値のある要素だけを少し選びます。写真の切れ端、紙片、付箋、透明テープ、小さなシール、チケット、スクリーンショットのような小片、スタンプ、手書き文字を、何気なく貼りためたようでいて実は設計されたように重ねます。要素は中心をずらしたり、傾けたり、重ねたり、切ったりして、自由な非対称のレイアウトにします。紙の質感、軽い折り目、印刷の縁、テープの透け感が見えます。色は写真から温かい 2〜4 色を取り、生成り、クリーム、薄いグレー、淡いカーキなど紙の中間色と合わせ、周りには大きな余白を残します。文字は短いメモ、付箋の一言、日付の断片で、言語は自由です。",
+    "traits": [
+      "ビジュアル日記",
+      "写真の切れ端と紙とテープ",
+      "私的な物語",
+      "自由な非対称レイアウト",
+      "写真から取った 2〜4 色",
+      "意図的なたっぷりの余白"
+    ],
+    "good": [
+      "暮らしのディテールや時間の流れがある写真：カフェの午後、旅先の駅、誕生日会、引っ越しの日",
+      "チケット、地名、食べ物、小物が写った旅や日常の写真",
+      "手帳のページ、一年のふり返り、SNS の日記、記念アルバムにしたい写真"
+    ],
+    "poor": [
+      "切らずに丸ごと見せる必要がある作品写真、証明写真、商品写真",
+      "物語がなく単調な面だけの写真：無地の空、何もない壁",
+      "整ったテンプレート、シールで埋めた手帳、アニメ調や EC 風のレイアウトを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "시각 일기 콜라주",
+    "tagline": "사진 조각, 메모지, 테이프, 영수증, 손글씨로 사진을 여백 넉넉한 개인 일기 한 장으로 만듭니다.",
+    "look": "하나의 분명한 주제를 중심으로 가치 있는 요소만 조금 고릅니다. 사진 조각 몇 개, 종잇조각, 메모지, 투명 테이프, 작은 스티커, 표, 캡처 같은 작은 조각, 도장, 손글씨를 무심히 모아 둔 듯하지만 실은 설계된 방식으로 겹칩니다. 요소들은 중심에서 벗어나거나 기울거나 겹치거나 잘리며 자유로운 비대칭 레이아웃을 이룹니다. 종이 질감, 가벼운 접힌 자국, 인쇄 가장자리, 테이프의 투명함이 보입니다. 색은 사진에서 따뜻한 2~4가지를 골라 미색, 크림색, 연회색, 연한 카키 같은 종이 중간색과 맞추고 주변에 넓은 여백을 남깁니다. 글은 짧은 메모, 포스트잇 한마디, 날짜 조각이며 언어는 자유입니다.",
+    "traits": [
+      "시각 일기",
+      "사진 조각·종이·테이프",
+      "개인적인 서사",
+      "자유로운 비대칭 편집",
+      "사진에서 뽑은 2~4가지 색",
+      "의도된 넉넉한 여백"
+    ],
+    "good": [
+      "생활의 디테일과 시간감이 있는 사진: 카페의 오후, 여행 중의 역, 생일 파티, 이사하는 날",
+      "표, 지명, 음식, 작은 물건이 담긴 여행·일상 사진",
+      "다이어리 페이지, 한 해 돌아보기, SNS 일기, 기념 앨범으로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "자르지 않고 온전히 보여야 하는 작품 사진, 증명사진, 제품 사진",
+      "이야기 없이 단조로운 면뿐인 사진: 민무늬 하늘, 빈 벽",
+      "정돈된 템플릿, 스티커로 가득한 다이어리, 만화풍이나 쇼핑몰식 레이아웃을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج اليوميات البصرية",
+    "tagline": "يحوّل صورتك إلى صفحة يوميات شخصية من قطع الصور والأوراق اللاصقة والشريط والتذاكر وخط اليد، مع فراغ واسع.",
+    "look": "تتمحور الصفحة حول موضوع واحد واضح ولا تستخدم إلا عناصر قليلة ثمينة: بضع قطع من الصورة، وقصاصات ورق، وأوراق ملاحظات لاصقة، وشريط شفاف، وملصقات صغيرة، وتذاكر، ومقتطفات تشبه لقطات الشاشة، وأختام، وكتابة يدوية، متراكبة كأنها حُفظت عفواً لكنها مصمّمة في الحقيقة. قد تُزاح القطع عن المركز أو تميل أو تتداخل أو تُقتطع، في تنسيق حر غير متناظر. يظهر ملمس الورق والثنيات الخفيفة وحواف الطباعة ولمعة الشريط. تُؤخذ من الصورة اثنان إلى أربعة ألوان دافئة وتُقرن بدرجات الورق المحايدة كالكريمي والأبيض المائل والرمادي الفاتح والكاكي الباهت، مع فراغ وافر حولها؛ والنص ملاحظات قصيرة أو سطور مذكّرة أو أجزاء تواريخ بأي لغة.",
+    "traits": [
+      "يوميات بصرية",
+      "قطع صور وورق وشريط",
+      "سرد شخصي",
+      "تنسيق حر غير متناظر",
+      "ألوان من الصورة (2–4)",
+      "فراغ واسع مقصود"
+    ],
+    "good": [
+      "صور مليئة بتفاصيل الحياة وإحساس بالزمن: عصر في مقهى، محطة في رحلة، حفلة عيد ميلاد، يوم الانتقال إلى بيت جديد",
+      "صور سفر أو حياة يومية فيها تذاكر وأسماء أماكن وطعام وأشياء صغيرة",
+      "صور لصفحة يوميات أو حصاد عام أو مذكرات على وسائل التواصل أو ألبوم تذكاري"
+    ],
+    "poor": [
+      "صور أعمال أو هوية أو منتجات يجب أن تُعرض كاملة بلا قص",
+      "صور بلا حكاية فيها مساحة واحدة كبيرة فقط: سماء صافية، جدار فارغ",
+      "طلب قالب مرتّب أو يوميات مكتظة بالملصقات أو تنسيق كرتوني أو تجاري"
+    ]
+  }
+}

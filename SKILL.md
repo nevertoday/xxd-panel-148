@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-148
-description: "Create XXD Panel 148 raster artwork from photographs using editorial visual-journal collage, selected photographic fragments, paper, tape, handwritten narrative, 2–4 source-derived colours and abundant whitespace in a free-form asymmetric layout. Use when the user invokes xxd-panel-148 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 148｜Visual Journal Collage: rebuilds a photo around one clear theme as an editorial visual-journal collage, using a few high-value photo fragments with paper scraps, sticky notes, clear tape, small stickers, tickets, screenshot-like snippets, stamps and handwriting, layered and slightly tilted in a free asymmetrical layout with paper grain, creases and printed edges, in 2–4 warm colours from the photo with cream, light grey and khaki paper neutrals, large deliberate whitespace and short notes or date fragments in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-148 or asks for visual journal, scrapbook, digital mixed-media collage or diary-style layouts from a photo."
 ---
 
 # XXD Panel 148
